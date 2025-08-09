@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang=en>
+	<head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8" charset="utf-8">
+        <meta name="google-site-verification" content="nTqZ_JMhleYe9_CHBGapntfKFuffboZo4UA93QT0Tb8">
+        <title>Global Potplayer</title>
+        <script type="text/javascript" src="/static/js/home.js"></script>
+
+		<link rel="icon" type="image/ico" href="https://t1.daumcdn.net/potplayer/main/img/favicon.ico">
+		<link rel="apple-touch-icon-precomposed" href="https://m1.daumcdn.net/icon/w/c/13/11/42095036704489703.png">
+
+        <link rel="stylesheet" href="/static/css/home.css" type="text/css" />
+    </head>
+<body>
+
+	<div id="daumPromotion" class="promotion_potplayer "> <!-- 업데이트 버튼 클릭시 layer_open 추가 -->
+		<div class="inner_player">
+			<div id="daumHead">
+				<h1 class="screen_hide">Daum tv pot</h1>
+			</div>
+			<hr class="hide">
+			<div id="daumContent">
+				<div class="player_language"> <!-- link_choice클릭시 lang_open추가 -->
+					<a href="javascript:;" class="link_choice"><em class="img_potplayer txt_lang">ENGLISH</em></a> <!-- 선택한 언어로 텍스트 변경 -->
+					<strong class="screen_out">언어선택</strong>
+					<ul class="list_lang">
+						<li><a href="?lang=ko" class="link_lang ko">한국어</a></li>
+						<li><a href="?lang=zh_CN" class="link_lang zh_CN">中文(简体)</a></li>
+						<li><a href="?lang=zh_TW" class="link_lang zh_TW">中文(繁体)</a>
+						<li><a href="?lang=en" class="link_lang en">ENGLISH</a></li>
+						<li><a href="?lang=uk" class="link_lang uk">Українська</a></li>
+						<li><a href="?lang=ru" class="link_lang ru">РУССКИЙ</a></li>
+						<li><a href="?lang=pl" class="link_lang pl">Polski</a></li>
+					</ul>
+					<a href="https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html" class="link_update">UPDATE</a>
+					<a href="https://www.facebook.com/potplayer.globalversion" class="link_facebook"><img src="https://t1.daumcdn.net/potplayer/main/img/facebook.png"> Facebook</a>
+                                        <!-- <a href="https://potplayer.daum.net/forum">FORUM</a> -->
+				</div>
+				<div class="player_intro">
+					<div class="text_hide">
+						<h2>pot player multimedia player</h2>
+						<strong>support</strong>
+						<ul>
+							<li>windows 11</li>
+							<li>windows 10</li>
+							<li>windows 8.1</li>
+							<li>windows 8</li>
+							<li>windows 7</li>
+						</ul>
+					</div>
+					<div class="player_support">windows 11 / 10 / 8.1 / 8 / 7</div>
+					<a href="https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe" class="text_hide img_potplayer link_download">32bit download</a>
+          			<a href="https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe" class="text_hide img_potplayer link_download64">64bit download</a>
+				</div>
+				<div class="player_powerful">
+					<h3 class="tit_player"><img src="https://t1.daumcdn.net/potplayer/main/img/en/powerful.jpg" alt="Enhanced H/w-Acceleration"/></h3>
+					<p class="txt_player">
+						Provides the maximum performance<br>with the minumum resource using DXVA, CUDA, QuickSync.<br>Get the best out of what you have.
+					</p>
+				</div>
+				<div class="player_view">
+					<h3 class="tit_player"><img src="https://t1.daumcdn.net/potplayer/main/img/en/experience.jpg" alt="Immersive Viewing Experience with 3D "/></h3>
+					<p class="txt_player">
+						Supports various types of 3D glasses<br>so you can get the 3D experience<br>anytime you want using your 3DTV or PC.<br>Various output format<br>(Side by Side, Top and Bottom, Page Flipping) supported.
+					</p>
+				</div>
+				<div class="player_supporting">
+					<h3 class="tit_player"><img src="https://t1.daumcdn.net/potplayer/main/img/en/supporting.jpg" alt="Supports Various Subtitle Formats"/></h3>
+					<p class="txt_player">
+						Text subtitles(SMI &amp; SRT), DVD(Vobsub)<br>and Blu-ray subtitles,<br>ASS/SSA animation and SMI Ruby tags, etc.
+					</p>
+				</div>
+				<div class="player_codec">
+					<h3 class="tit_player"><img src="https://t1.daumcdn.net/potplayer/main/img/en/useful.jpg" alt="Variety of Codecs, Easy to Manage"/></h3>
+					<p class="txt_player">
+						No need to install different codecs all the time when using the player.<br>Supports OpenCodec so users can easily add whatever codecs they want.
+					</p>
+				</div>
+				<div class="player_function">
+					<h3 class="tit_player"><img src="https://t1.daumcdn.net/potplayer/main/img/en/excellence.jpg" alt="More Advanced Features"/></h3>
+					<ul class="list_function">
+						<li>Smooth, seamless video play.</li><li>Choose which one when you have 2 sound cards.</li><li>Preview the scene with snapshots.</li><li>You can bookmark your favorite scene or chapter.</li><li>We support Direct3D9 Ex Flip Mode and Overlay.</li><li>Supports various devices such as DVD,TV,HDTV.</li>
+					</ul>
+				</div>
+				<hr class="hide">
+				<div id="daumFoot">
+					<address class="txt_copyright">
+					 copyright &#169;
+					 <a href="https://www.kakaocorp.com/?lang=en" class="link_copy">Kakao Corp.</a>
+					 All rights reserved
+					</address>
+					<div class="copy_etc">
+						<a href="/publicRelation" class="link_term link_etc">terms of use</a>
+						<a href="mailto:ahahlive@hanmail.net" class="link_etc">contact us</a>
+					</div>
+				</div>
+			</div><!-- //daumContent -->
+		</div>	
+	</div> 
+
+
+
+<script type="text/javascript">
+PotPlayer.home.init();
+PotPlayer.home.setLocale("en");
+</script>
+
+</body>
+</html>
